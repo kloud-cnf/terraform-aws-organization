@@ -1,5 +1,7 @@
 # terraform-aws-organization
 
+![](https://img.shields.io/badge/Terraform-1.5x-623CE4?logo=terraform)
+
 > Terraform module to manage an AWS Organization
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
