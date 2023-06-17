@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/kloud-cnf/terraform-aws-organization/compare/v0.1.0...v0.1.1) (2023-06-17)
+
+
+### Bug Fixes
+
+* **ci:** manual release for bumped provider version ([c054cc4](https://github.com/kloud-cnf/terraform-aws-organization/commit/c054cc460b878ab91bbb4e5356da168657ed7d44))
+
 # [0.1.0](https://github.com/kloud-cnf/terraform-aws-organization/compare/v0.0.0...v0.1.0) (2023-05-19)
 
 
